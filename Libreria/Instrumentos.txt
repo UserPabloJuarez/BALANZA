@@ -1,0 +1,2 @@
+01001;Balanza Precisa XB220A;G:\Aplicaciones\SISTEMA\CAPTURAPESOS\Libreria\PrecisaXB220A.jpeg;COM3;Baudios=9600;BitsDatos=7;BitsParada=1;Paridad=Even
+01002;Balanza Sartorius ENTRIS 224I;G:\Aplicaciones\SISTEMA\CAPTURAPESOS\Libreria\ENTRIS224I.jpg;COM3;Baudios=1200;BitsDatos=7;BitsParada=1;Paridad=Odd 
